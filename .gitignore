@@ -1,0 +1,8 @@
+# ignore ALL .class files
+*.class
+
+# ignore ALL .ctxt files
+*.ctxt
+
+# ignore all doc files
+*.doc
