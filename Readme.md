@@ -6,5 +6,5 @@ Pokie is a Java SE monolith originally written circa 2010 (updated in 2014, 2018
 <br>
 Download the files, open blue.package in the root directory. <br>
 Compile the model package. (double click on package then click compile). <br>
-Compile the root directory. (double click on Go up, then click compiel).<br>
+Compile the root directory. (double click on Go up, then click compile).<br>
 Right click on Root, select main() <br>
